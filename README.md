@@ -45,6 +45,8 @@
   ![Изображение 6](https://github.com/BrepeX/rvk-statistic/blob/main/screen%206.png)
   ![Изображение 7](https://github.com/BrepeX/rvk-statistic/blob/main/screen%207.png)
   ![Изображение 8](https://github.com/BrepeX/rvk-statistic/blob/main/screen%208.png)
+  ![Изображение 10](https://github.com/BrepeX/rvk-statistic/blob/main/screen10.png)
+  ![Изображение 10](https://github.com/BrepeX/rvk-statistic/blob/main/screen11.png)
 </details>
 
 ## Моя роль в проекте
